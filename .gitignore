@@ -1,0 +1,6 @@
+# Vscode
+.vscode/
+.history/
+__pycache__/
+
+venv/
